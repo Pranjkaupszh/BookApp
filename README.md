@@ -24,7 +24,6 @@ An interactive **Book Management Application** that integrates **FastAPI** for b
 ---
 
 pip install -r requirements.txt
-3️⃣ Run the Application
-bash
+Run the Application with: 
 streamlit run app.py
 This will start both the Streamlit UI and the FastAPI backend, all in a single app.
